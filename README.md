@@ -1,4 +1,4 @@
-<img src="zaxxon-title.jpg">
+<img src="zaxxon-title_small.jpg">
 
 <!--
 **noxxaz/noxxaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
